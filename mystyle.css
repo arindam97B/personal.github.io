@@ -1,0 +1,28 @@
+footer
+{
+	background-color: aquamarine;
+	text-color: black;
+	font-family: verdana;
+	border-color:blue;
+	border-style: solid;
+	border-radius:8px;
+}
+body
+{
+	background-color: #f5deb3;
+}
+img
+{
+	border-radius: 50%;
+	border-color:	#8b4513;
+	border-width: 4;
+}
+table
+{
+	color:	#5f9ea0;
+}
+a
+{
+	text-decoration:none;
+	font-size:bold;
+}
